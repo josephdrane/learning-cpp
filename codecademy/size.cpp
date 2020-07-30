@@ -2,7 +2,8 @@
 #include <vector>
 
 int main() {
-    std::vector<std::string> grocery;
+    // std::vector<std::string> grocery;
+    std::vector<std::string> grocery = {"Milk", "Eggs"};
     
     // Add more 
     grocery.push_back("Broccoli");
